@@ -8,11 +8,9 @@ SteeleLab is a self-built virtual enterprise lab environment created using VMwar
 
 
 
-\## Demo Video
+## Demo Video
 
-
-
-\[!\[Watch the demo](https://img.youtube.com/vi/BmoV4YQGpfo/0.jpg)](https://youtu.be/BmoV4YQGpfo)
+[Watch the SteeleLab build demo](https://youtu.be/BmoV4YQGpfo)
 
 
 
